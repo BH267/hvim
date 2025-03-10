@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-mkdir ~/.config/nvim
+mkdir -p ~/.config/nvim
 mv -f ./* ./.* ~/.config/nvim
